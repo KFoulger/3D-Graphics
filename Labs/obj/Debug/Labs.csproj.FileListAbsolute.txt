@@ -1,0 +1,137 @@
+C:\Users\529353\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+C:\Users\529353\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+C:\Users\529353\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+C:\Users\529353\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\fPassThrough.frag
+C:\Users\529353\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vLighting.vert
+C:\Users\529353\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\fTexture.frag
+C:\Users\529353\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\vTexture.vert
+C:\Users\529353\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+C:\Users\529353\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+C:\Users\529353\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\cylinder.bin
+C:\Users\529353\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\lab22model.sjg
+C:\Users\529353\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\model.bin
+C:\Users\529353\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\sphere.bin
+C:\Users\529353\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe.config
+C:\Users\529353\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe
+C:\Users\529353\Startup Code 3D Graphics\Labs\bin\Debug\Labs.pdb
+C:\Users\529353\Startup Code 3D Graphics\Labs\bin\Debug\OpenTK.dll
+C:\Users\529353\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csprojResolveAssemblyReference.cache
+C:\Users\529353\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+C:\Users\529353\Startup Code 3D Graphics\Labs\obj\Debug\Labs.exe
+C:\Users\529353\Startup Code 3D Graphics\Labs\obj\Debug\Labs.pdb
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\fPassThrough.frag
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vLighting.vert
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\fTexture.frag
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\vTexture.vert
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\cylinder.bin
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\lab22model.sjg
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\model.bin
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\sphere.bin
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe.config
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\bin\Debug\Labs.pdb
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\bin\Debug\OpenTK.dll
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csprojResolveAssemblyReference.cache
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\obj\Debug\Labs.exe
+C:\Users\Kieran\Desktop\529353\08138\Startup Code 3D Graphics\Labs\obj\Debug\Labs.pdb
+G:\SVN\08138\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+G:\SVN\08138\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+G:\SVN\08138\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+G:\SVN\08138\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\fPassThrough.frag
+G:\SVN\08138\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vLighting.vert
+G:\SVN\08138\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\fTexture.frag
+G:\SVN\08138\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\vTexture.vert
+G:\SVN\08138\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+G:\SVN\08138\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+G:\SVN\08138\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\cylinder.bin
+G:\SVN\08138\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\lab22model.sjg
+G:\SVN\08138\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\model.bin
+G:\SVN\08138\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\sphere.bin
+G:\SVN\08138\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe.config
+G:\SVN\08138\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe
+G:\SVN\08138\Startup Code 3D Graphics\Labs\bin\Debug\Labs.pdb
+G:\SVN\08138\Startup Code 3D Graphics\Labs\bin\Debug\OpenTK.dll
+G:\SVN\08138\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csprojResolveAssemblyReference.cache
+G:\SVN\08138\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+G:\SVN\08138\Startup Code 3D Graphics\Labs\obj\Debug\Labs.exe
+G:\SVN\08138\Startup Code 3D Graphics\Labs\obj\Debug\Labs.pdb
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\fPassThrough.frag
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vLighting.vert
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\fTexture.frag
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\vTexture.vert
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\cylinder.bin
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\lab22model.sjg
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\model.bin
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\sphere.bin
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe.config
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\bin\Debug\Labs.pdb
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\bin\Debug\OpenTK.dll
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csprojResolveAssemblyReference.cache
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CopyComplete
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\obj\Debug\Labs.exe
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\obj\Debug\Labs.pdb
+C:\Users\Kieran\Downloads\Startup Code 3D Graphics\Labs\bin\Debug\ACW\texture.jpg
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\ACW\Shaders\fLighting.frag
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\ACW\Shaders\vPassThrough.vert
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\fPassThrough.frag
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vLighting.vert
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\fTexture.frag
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\vTexture.vert
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\cylinder.bin
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\lab22model.sjg
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\model.bin
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\sphere.bin
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\ACW\texture.jpg
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe.config
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Labs.pdb
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\OpenTK.dll
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\obj\Debug\Labs.exe
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\obj\Debug\Labs.pdb
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\fLighting.frag
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vPassThrough.vert
+C:\Users\529353\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csprojResolveAssemblyReference.cache
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\ACW\texture.jpg
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\ACW\Shaders\fLighting.frag
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\ACW\Shaders\vPassThrough.vert
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\fLighting.frag
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\fPassThrough.frag
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vLighting.vert
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vPassThrough.vert
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\fTexture.frag
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\vTexture.vert
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\cylinder.bin
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\lab22model.sjg
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\model.bin
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\sphere.bin
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe.config
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\Labs.pdb
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\bin\Debug\OpenTK.dll
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\obj\Debug\Labs.exe
+C:\Users\529353\Startup Code 3D Graphics (2)\Startup Code 3D Graphics (4)\Startup Code 3D Graphics\Labs\obj\Debug\Labs.pdb
